@@ -1,8 +1,8 @@
 h1 {
-  text-align: center;
-  color: brown;
+  text-align: left;
+
   margin: 10px;
-  border: 1px solid;
+  border: 2px solid;
 }
 h2 {
   text-align: center;
